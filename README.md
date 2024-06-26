@@ -1,6 +1,10 @@
 # ChildcareApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+Have used Tailwind CSS
+-To install this app on your device,you can go through the following steps:
+1. npm install after git clone of the repository
+2. Have used json server for the dummy database..For running json server (json-server --watch db.json)
 
 ## Development server
 
