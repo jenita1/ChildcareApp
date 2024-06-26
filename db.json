@@ -1,0 +1,38 @@
+{
+  "child": [
+    {
+      "email": "admin@gmail.com",
+      "password": "Admin@123",
+      "phone": "123446545",
+      "address": "mulpani",
+      "firstName": "mul",
+      "lastName": "mul",
+      "age": "mulpani",
+      "program": "mulpani",
+      "id": "1"
+    }
+  ],
+  "parent": [
+    {
+      "email": "admin@gmail.com",
+      "password": "admin@123",
+      "token": "01",
+      "id": "d3bb"
+    },
+    {
+      "email": "lamichhanejenita@gmail.com",
+      "password": "jdshjds",
+      "token": "02",
+      "id": "4116"
+    },
+    {
+      "id": "da0f",
+      "email": "admin@gmail.com",
+      "password": "admin@123",
+      "token": true
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,1 @@
+export { ParentService} from '../services/parent.service'
