@@ -54,7 +54,7 @@ export class ParentLoginComponent {
     data =>{
       
       // let msg ='Thank you for registering. Please verify your email address'
-      alert("Successfully login")
+      alert(" Hi you are Successfully logged in")
       console.log('Data is here',data)
       this.router.navigate(['/dashboard'])
     },
