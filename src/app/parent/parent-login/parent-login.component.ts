@@ -44,6 +44,10 @@ export class ParentLoginComponent {
   onSubmit(){
     console.log('hello')
   this.submitted = true;
+  if (this.loginForm.invalid) {
+    return;
+  }
+
    
    this.loading= true;
    const postData = { ...this.loginForm.value };
@@ -54,7 +58,6 @@ export class ParentLoginComponent {
     data =>{
       
       // let msg ='Thank you for registering. Please verify your email address'
-      alert(" Hi you are Successfully logged in")
       console.log('Data is here',data)
       this.router.navigate(['/dashboard'])
     },
