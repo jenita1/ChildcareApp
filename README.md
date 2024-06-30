@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Have used Tailwind CSS
 -To install this app on your device,you can go through the following steps:
 1. npm install after git clone of the repository
-2. Have used json server for the dummy database..For running json server (json-server --watch db.json)
+2. Have used json server for the database..For running json server (json-server --watch db.json)
 
 ## Development server
 
